@@ -20,3 +20,6 @@ Vehicle detection from camera with Python
 Yeah! That was it. After running the code, your camera will open. The code will work correctly if you keep any vehicle image legible to the camera.
 
 Developed by Glearian .)
+
+> Pictures
+<img src="https://media.discordapp.net/attachments/1030103879527977020/1048661745666891877/image.png" alt="F1 car detection"/>
