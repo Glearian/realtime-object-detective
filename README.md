@@ -21,5 +21,5 @@ Yeah! That was it. After running the code, your camera will open. The code will 
 
 Developed by Glearian .)
 
-> Pictures
+# Images from code
 <img src="https://media.discordapp.net/attachments/1030103879527977020/1048661745666891877/image.png" alt="F1 car detection"/>
